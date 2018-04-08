@@ -1,0 +1,16 @@
+/*
+Theme Name: Hotel Rio Huallaga
+Author: Alfredo Vásquez
+Author URI: http://www.alfredovasquezalcala.com
+Description: Hotel Reservations
+Version: 1.0
+Tags: masonry
+*/
+@import url("css/reset.css");
+@import url("css/bootstrap.min.css");
+@import url("css/fonts.css");
+@import url("css/flexslider.css");
+@import url("css/master.css");
+@import url("css/responsive.css");
+@import url("css/ie.css");
+@import url("css/superfish.css");
