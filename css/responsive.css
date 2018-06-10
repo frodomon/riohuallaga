@@ -163,10 +163,17 @@
 	header menu{
 		display: none;
 	}
+	.yurimaguas{
+		display:none;
+	}
+	#slideshow{
+		margin-top: 0;
+	}
 	.top-header{
 		height:90px;
 		width:90%;
 		float:left;
+		background-color: #49311C;
 	}
 	.header-logo{
 		height:90px;
@@ -192,8 +199,6 @@
 		background-color: #49311C;
 	}
 	#main{
-		margin-top: 90px;
-		height: calc(100% - 90px);	
 	}
 	/*----FOOTER------*/
 	.footer-top-left,
@@ -212,7 +217,7 @@
 	}
 	/*--About US*/
 	#about_us{
-		margin-top: 90px;
+		margin-top: 0;
 	}
 	.hotel,
 	.recepcion{
@@ -233,7 +238,7 @@
 	}
 	/*--Habitaciones--*/
 	#servicios{
-		margin-top: 90px;
+		margin-top: 0;
 	}
 	#room{
 		width:100%;
@@ -259,7 +264,7 @@
 	}
 	/*--Spa---*/
 	#eventos{
-		margin-top: 90px;
+		margin-top: 0;
 	}
 	.vapor{
 		display:none;
@@ -287,7 +292,7 @@
 	}
 	/*--Contacto--*/
 	#contact_us{
-		margin-top: 90px;
+		margin-top: 0;
 	}
 	.gmaps{
 		width:100%;

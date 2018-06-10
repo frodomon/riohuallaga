@@ -23,7 +23,7 @@
 				<?php $url = home_url( '/' ); ?>
 				<a href="<?php echo esc_url($url) ?>" class="hide-responsive"><img id="logo-header" src="<?php print IMAGES.'/logo horizontal.png' ?>"></a>
 				<a href="<?php echo esc_url($url) ?>" class="show-responsive"><img id="logo-header" src="<?php print IMAGES.'/logo horizontal inv.png' ?>"></a>
-				<div>
+				<div class="yurimaguas">
 					<p><i class="fa fa-map-marker" aria-hidden="true"></i>   Calle Arica Nro. 111, Yurimaguas, Loreto, Perú</p>
 					<p><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:065353951">  (065) 353951  </a><i class="fa fa-mobile" aria-hidden="true"></i><a href="tel:+511965801755">  965801755</a></p>
 					<p><i class="fa fa-envelope" aria-hidden="true"></i><a href='mailto:recepcion@hotelriohuallaga.com.pe'>  recepcion@hotelriohuallaga.com.pe</a></p>

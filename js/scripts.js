@@ -18,7 +18,6 @@ jQuery(document).ready(function() {
 	jQuery(window).scroll(function () {
 		if ( jQuery(window).width() < 768 ){
 			jQuery('header').addClass('fixed-header')
-			jQuery('#slideshow').css('padding-top','80px')
 		}
 		else{
 			if( jQuery(window).scrollTop() >= 121 ){
